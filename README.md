@@ -26,5 +26,7 @@ review the [guidelines for contributing](CONTRIBUTING.md).
 
 ## License
 
+HAHA
+
 Yii2-user is released under the MIT License. See the bundled [LICENSE.md](LICENSE.md)
 for details.
