@@ -1,5 +1,5 @@
 {
-    "name": "weison-tech/yii2-user",
+    "name": "wangwillout/yii2-user",
     "description": "Flexible user registration and authentication module for Yii2",
     "keywords": ["yii2", "yii2-user", "user management", "weison-tech"],
     "type": "yii2-extension",
